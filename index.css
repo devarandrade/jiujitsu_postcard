@@ -1,0 +1,46 @@
+.teste{
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    height: 300px;
+    width: 500px;
+    background-color: white;
+    padding:5px;
+}
+h1{
+    position: absolute;
+    top:3%;
+    color:red;
+    margin:0px;
+    padding-top: 0px;
+    
+}
+body{
+    background-color: black;
+}
+.corpo{
+    position: absolute;
+    top:20%;
+    width: 50%;
+}
+.corpo2{
+    position: absolute;
+    top:20%;
+    width: 50%;
+    left:58%;
+}
+input{
+    margin: 10px;
+    border: none;
+    border-bottom: 2px solid #dedede;
+}
+button{
+    position: absolute;
+    bottom:8%;
+    left:37%;
+}
+img{
+    position: absolute;
+   right:0%;
+   width: 45px;
+   padding-right: 5px;
