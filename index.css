@@ -1,4 +1,4 @@
-.teste{
+/*.teste{
     position: absolute;
     top: 25%;
     left: 30%;
@@ -47,4 +47,20 @@ img{
    }
    li{
        background-color: red;
+   }
+   */
+   h1{
+       color:blue;
+   }
+   .teste{
+       color:red;
+   }
+   .teste2{
+       color: yellow; 
+   }
+   .teste3{
+       color: green;
+   }
+   .novo{
+       color:indigo;
    }
