@@ -44,3 +44,7 @@ img{
    right:0%;
    width: 45px;
    padding-right: 5px;
+   }
+   li{
+       background-color: red;
+   }
