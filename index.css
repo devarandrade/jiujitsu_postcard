@@ -65,8 +65,13 @@ img{
        color:indigo; */
    /* } */
    img{
+       position:absolute;
+       top:15%;
        width: 100px;
        height: 100px;
+       border-radius: 50%;
+       margin:10px;
+       /* opacity: 0.2; */
    }
    .corpo{
        position: absolute;
@@ -75,8 +80,32 @@ img{
        background-color: white;
        left:25%;
        top:25%;
+       /* background-image: url("Skills.png"); */
+       
+       
    }
    body{
        background-color: black;
 
+   }
+   .texto{
+       position:absolute;
+       top:15%;
+       left: 25%;
+       width: 70%;
+
+   }
+   .teste3{
+       position:absolute;
+       top:49%;
+   }
+   .teste{
+       position:absolute;
+       top:53%;
+       left:45%
+   }
+   h1{
+       position:absolute;
+       left:19%;
+       
    }
