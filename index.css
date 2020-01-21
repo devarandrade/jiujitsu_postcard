@@ -64,7 +64,7 @@ img{
    .novo{
        color:indigo; */
    /* } */
-   img{
+   .devar{
        position:absolute;
        top:15%;
        width: 100px;
@@ -80,9 +80,12 @@ img{
        background-color: white;
        left:25%;
        top:25%;
-       
-       
-   }
+    }
+.samu{
+    height: 400px;
+    width: 600px;
+    opacity: 0.1;
+}
    body{
        background-color: black;
 
@@ -98,7 +101,8 @@ img{
        position:absolute;
        top:49%;
        width: 200px;
-       height: 143px;
+       height: 138px;
+       left: 36px;
    }
    .teste{
        position:absolute;
@@ -113,7 +117,7 @@ img{
 button{
     position: absolute;
     bottom: 5%;
-    left: 46%;
+    left: 43%;
 }
 .blank{
     position: absolute;
