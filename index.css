@@ -49,7 +49,7 @@ img{
        background-color: red;
    }
    */
-   h1{
+   /* h1{
        color:blue;
    }
    .teste{
@@ -62,9 +62,19 @@ img{
        color: green;
    }
    .novo{
-       color:indigo;
-   }
+       color:indigo; */
+   /* } */
    img{
        width: 100px;
        height: 100px;
+   }
+   .corpo{
+       position: absolute;
+       width: 600px;
+       height: 400px;
+       background-color: white;
+   }
+   body{
+       background-color: black;
+
    }
