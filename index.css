@@ -73,6 +73,8 @@ img{
        width: 600px;
        height: 400px;
        background-color: white;
+       left:25%;
+       top:25%;
    }
    body{
        background-color: black;
