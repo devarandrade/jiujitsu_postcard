@@ -71,7 +71,7 @@ img{
        height: 100px;
        border-radius: 50%;
        margin:10px;
-       /* opacity: 0.2; */
+    /* opacity: 0.2;*/ 
    }
    .corpo{
        position: absolute;
@@ -80,7 +80,6 @@ img{
        background-color: white;
        left:25%;
        top:25%;
-       /* background-image: url("Skills.png"); */
        
        
    }
@@ -98,14 +97,34 @@ img{
    .teste3{
        position:absolute;
        top:49%;
+       width: 200px;
+       height: 143px;
    }
    .teste{
        position:absolute;
        top:53%;
-       left:45%
+       left:55%
    }
    h1{
        position:absolute;
        left:19%;
        
    }
+button{
+    position: absolute;
+    bottom: 5%;
+    left: 46%;
+}
+.blank{
+    position: absolute;
+    left: 25px;
+    bottom: 0px;
+
+}
+h3{
+    position: absolute;
+    bottom: 1px;
+    left: 24px;
+    text-decoration: underline;
+    color: blue;
+}
